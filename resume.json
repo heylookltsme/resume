@@ -1,0 +1,206 @@
+{
+  "basics": {
+    "name": "Corinne Hoener",
+    "label": "Software Engineer",
+    "picture": "https://i.vimeocdn.com/portrait/22680887_300x300",
+    "email": "corinne.hoener@gmail.com",
+    "phone": "347.688.2646",
+    "website": "http://corinnehoener.com",
+    "summary": "Seasoned engineer with ten years of experience building technology to solve problems. Kind and empathetic coworker who reviews pull requests promptly and thoughtfully. Balances getting-thing-done with doing-things-right in order to ship successfully and reliably. Removes more code than she adds.",
+    "location": {
+      "address": "6798 Trenton Road",
+      "postalCode": "NY 13304",
+      "city": "Barneveld",
+      "countryCode": "US",
+      "region": "New York"
+    },
+    "profiles": [
+      {
+        "network": "Github",
+        "username": "heylookltsme",
+        "url": "https://github.com/heylookltsme"
+      },
+      {
+        "network": "LinkedIn",
+        "username": "hoener",
+        "url": "https://linkedin.com/in/hoener"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "Vimeo",
+      "position": "Principal Engineer",
+      "website": "https://vimeo.com",
+      "startDate": "2019-02-01",
+      "summary": "",
+      "highlights": [
+        ""
+      ]
+    },
+    {
+      "company": "Vimeo",
+      "position": "Senior Software Engineer",
+      "website": "https://vimeo.com",
+      "startDate": "2017-06-01",
+      "endDate": "2019-01-01",
+      "summary": "",
+      "highlights": [
+        ""
+      ]
+    },
+    {
+      "company": "Tumblr",
+      "position": "Engineering Manager",
+      "website": "https://tumblr.com",
+      "startDate": "2015-10-01",
+      "endDate": "2017-01-01",
+      "summary": "",
+      "highlights": [
+        "Managed team of senior engineers responsible for developing and maintaining Tumblr's front-end architecture, build system, and coding standards.",
+        "Set and tracked progress toward quarterly goals and provided weekly updates to senior management.",
+        "Provided regular feedback to team members via weekly one-on-one meetings and quarterly performance reviews.",
+        "Collaborated with legal and business development stakeholders to successfully open- source three team projects."
+      ]
+    },
+    {
+      "company": "Tumblr",
+      "position": "Staff Engineer",
+      "website": "https://tumblr.com",
+      "startDate": "2015-04-01",
+      "endDate": "2017-10-01",
+      "summary": "",
+      "highlights": [
+        "Provided technical leadership and guidance on fronted technologies for project plans.",
+        "Key participant in architecture planning and review meetings.",
+        "Developed onboarding materials and organized a week-long orientation to simultaneously onboard over 20 new engineers."
+      ]
+    },
+    {
+      "company": "Tumblr",
+      "position": "Product Engineer",
+      "website": "https://tumblr.com",
+      "startDate": "2013-04-01",
+      "endDate": "2015-04-01",
+      "summary": "",
+      "highlights": [
+        "Developed, tested, and maintained product features in PHP and JavaScript.",
+        "Collaborated with designers to iterate on user interfaces.",
+        "Analyzed data from A/B testing experiments to evaluate project success.",
+        "Participated in an on-call rotation and responded to and triaged emergency breaking incidents."
+      ]
+    },
+    {
+      "company": "Brooklyn Musuem",
+      "position": "Lead Programmer",
+      "website": "https://brooklynmuseum.com",
+      "startDate": "2011-10-01",
+      "endDate": "2013-04-01",
+      "summary": "",
+      "highlights": [
+        "Full-stack web development using PHP, MySQL, JavaScript, HTML, and CSS.",
+        "Basic system administration using AWS, including EC2, RDS, EBS, and S3.",
+        "Maintain / debug / refactor legacy codebase.",
+        "Translate PSD mockups into functional websites.",
+        "Collaborated in building http://gobrooklynart.org, the platform for a Brooklyn-wide open studio event with over 1,700 artists and 18,000 studio visitors participating."
+      ]
+    },
+    {
+      "company": "Teachers College Reading and Writing Project",
+      "position": "Systems Analytist",
+      "website": "https://readingandwritingproject.com",
+      "startDate": "2009-08-01",
+      "endDate": "2011-10-01",
+      "summary": "",
+      "highlights": [
+        "Gathered requirements, architected, and developed technological solutions to meet the organization's needs.",
+        "Designed and developed internal and public web applications written in PHP and JavaScript.",
+        "Provided technical support for end users.",
+        "Developed fully automated event ticketing system, including the automatic generation and emailing of PDFs with scannable barcodes for attendance tracking."
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Miami University",
+      "area": "Clinical Psychology",
+      "studyType": "Doctorate (unfinished)",
+      "startDate": "2006-08-01",
+      "endDate": "2009-05-01",
+      "summary": "Graduate student in clinical psychology Ph.D program. Taught two sections of an undergraduate course on statistics. Presented at academic conferences. Published in a peer-reviewed journal."
+    },
+    {
+      "institution": "Bard College",
+      "area": "Psychology",
+      "studyType": "Bachelor of Arts",
+      "startDate": "2002-08-01",
+      "endDate": "2006-05-01",
+      "summary": "Bachelor of Arts in Psychology. Recipient of the Excellence and Equal Cost Scholarship and the Andrew J. Bernstein Prize for Best Thesis in Psychology."
+    }
+  ],
+  "skills": [
+    {
+      "name": "Web Technologies",
+      "level": "Expert",
+      "keywords": [
+        "JavaScript",
+        "TypeScript",
+        "PHP",
+        "MySql",
+        "HTML",
+        "CSS",
+        "Sass"
+      ]
+    },
+    {
+      "name": "Frameworks & Tools",
+      "level": "Expert",
+      "keywords": [
+        "React",
+        "Redux",
+        "Sass",
+        "Styled Components",
+        "Webpack",
+        "Eslint",
+        "Babel"
+      ]
+    },
+    {
+      "name": "Devex Things",
+      "level": "Expert",
+      "keywords": [
+        "bash",
+        "git",
+        "vim",
+        "Jenkins",
+        "OpenTSDB"
+      ]
+    },
+    {
+      "name": "Work Tools",
+      "level": "Expert",
+      "keywords": [
+        "Github",
+        "JIRA",
+        "Confluence",
+        "Scrum",
+        "Kanban",
+        "A/B Testing"
+      ]
+    }
+  ],
+  "interests": [
+    {
+      "name": "Homebrewing"
+    },
+    {
+      "name": "Cycling"
+    },
+    {
+      "name": "Cats"
+    }
+  ],
+  "meta": {
+    "theme": "elegant"
+  }
+}
